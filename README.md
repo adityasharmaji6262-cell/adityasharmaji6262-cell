@@ -54,7 +54,7 @@
 
 ### 📈 Weekly Contribution Activity
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adityasharmaji6262-cell&theme=github-dark&area=true&category=commits" alt="Activity Graph" />
+  <img src="https://activity-graph.dinco.dev/graph?username=adityasharmaji6262-cell&theme=github-dark&area=true&category=commits" alt="Activity Graph" />
 </p>
 
 <p align="center">
