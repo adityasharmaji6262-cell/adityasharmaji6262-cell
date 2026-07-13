@@ -58,7 +58,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=adityasharmaji6262-cell&theme=dark&fire=FF5500&ring=00FF66&stroke=00FF66" alt="GitHub Streak" />
+ <img src="https://streak-stats.demolab.com/?user=adityasharmaji6262-cell&theme=dark&fire=FF5500&ring=00FF66&stroke=00FF66&v=1" alt="GitHub Streak" />
 </p>
 
 <p align="center">
