@@ -13,8 +13,6 @@
 
 ## 📌 Featured Mission Modules
 
-## 📌 Featured Mission Modules
-
 <p align="center">
   <!-- Module 1: Project Clara (Forked / Original) -->
   <a href="https://github.com/adityaagrawal777/T-42-Clara--Dementia-Assistant-">
