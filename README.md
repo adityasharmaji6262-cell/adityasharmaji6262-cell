@@ -15,7 +15,7 @@
 
 <p align="center">
   <!-- Module 1: Project Clara -->
-  <a href="https://github.com/adityasharmaji6262-cell/ClaraCompanion">
+  <a href="[https://github.com/adityasharmaji6262-cell/ClaraCompanion](https://github.com/adityaagrawal777/T-42-Clara--Dementia-Assistant-)">
     <img src="https://github-stats-extended.vercel.app/api/pin/?username=adityasharmaji6262-cell&repo=ClaraCompanion&theme=dark&bg_color=0D1117&title_color=00FF66&icon_color=00FF66&text_color=FFFFFF&border_color=00FF66&show_owner=false&cache_seconds=1800" height="120" alt="Project Clara Card" />  
   </a>
   
