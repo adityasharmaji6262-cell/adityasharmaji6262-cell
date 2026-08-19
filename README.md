@@ -13,22 +13,24 @@
 
 ## 📌 Featured Mission Modules
 
+## 📌 Featured Mission Modules
+
 <p align="center">
-  <!-- Module 1: Project Clara -->
-  <a href="[https://github.com/adityasharmaji6262-cell/ClaraCompanion](https://github.com/adityaagrawal777/T-42-Clara--Dementia-Assistant-)">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=adityasharmaji6262-cell&repo=ClaraCompanion&theme=dark&bg_color=0D1117&title_color=00FF66&icon_color=00FF66&text_color=FFFFFF&border_color=00FF66&show_owner=false&cache_seconds=1800" height="120" alt="Project Clara Card" />  
+  <!-- Module 1: Project Clara (Forked / Original) -->
+  <a href="https://github.com/adityaagrawal777/T-42-Clara--Dementia-Assistant-">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=adityaagrawal777&repo=T-42-Clara--Dementia-Assistant-&theme=dark&bg_color=0D1117&title_color=00FF66&icon_color=00FF66&text_color=FFFFFF&border_color=00FF66&show_owner=true&cache_seconds=1800" height="120" alt="Project Clara Card" />  
   </a>
   
-  <!-- Module 2: Student Result App -->
+  <!-- Module 2: TaskEngineEnterprise -->
   <a href="https://github.com/adityasharmaji6262-cell/TaskEngineEnterprise">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=adityasharmaji6262-cell&repo=Student_result-App_project&theme=dark&bg_color=0D1117&title_color=00FF66&icon_color=00FF66&text_color=FFFFFF&border_color=00FF66&show_owner=false" height="120" alt="Student Result App Card" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=adityasharmaji6262-cell&repo=TaskEngineEnterprise&theme=dark&bg_color=0D1117&title_color=00FF66&icon_color=00FF66&text_color=FFFFFF&border_color=00FF66&show_owner=false&cache_seconds=1800" height="120" alt="TaskEngineEnterprise Card" />
   </a>
 </p>
 
 <p align="center">
   <!-- Module 3: Neetcode Submissions -->
   <a href="https://github.com/adityasharmaji6262-cell/neetcode-submissions">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=adityasharmaji6262-cell&repo=neetcode-submissions&theme=dark&bg_color=0D1117&title_color=00FF66&icon_color=00FF66&text_color=FFFFFF&border_color=00FF66&show_owner=false" height="120" alt="Neetcode Submissions Card" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=adityasharmaji6262-cell&repo=neetcode-submissions&theme=dark&bg_color=0D1117&title_color=00FF66&icon_color=00FF66&text_color=FFFFFF&border_color=00FF66&show_owner=false&cache_seconds=1800" height="120" alt="Neetcode Submissions Card" />
   </a>
 </p>
 
